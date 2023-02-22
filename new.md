@@ -1,1 +1,2 @@
-new3
+consol.log("Hello wold")
+consol.log("Hello wold") //2nd
