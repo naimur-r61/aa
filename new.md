@@ -1,2 +1,3 @@
+<<<<<<< naimur-r61-patch-4
 consol.log("Hello wold")
-consol.log("Hello wold") //2nd
+>>>>>>> main
